@@ -15,7 +15,7 @@ pip install mechanize
 pip install bs4
 pip install future
 rm -rf Larvel
-git clone https://github.com/syedzada1100/Crack-Pro.git
+git clone https://github.com/BABASEc1/Larvel.git
 cd Larvel
 git pull 
 python Larvel.py
